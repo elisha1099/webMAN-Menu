@@ -1,2 +1,2 @@
-# webMAN-Menu
+# webMAN-Menu for iOS
 Work-in-progress
