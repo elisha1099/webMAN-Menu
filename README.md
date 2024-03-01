@@ -24,3 +24,6 @@ To setup webMAN-Menu for iOS all you need to do is follow a few simple steps.
 2. Download the webMAN Menu Shortcut from the [releases](https://github.com/elisha1099/webMAN-Menu/releases) tab to your iPhone or iPad.
 3. Open and import the shortcut onto your iPhone, it will then show up in the 'Shortcuts' app.
 4. Open Shortcut, run webMAN Menu by finding it in the shortcuts app, tap the smiley face, then follow the directions.
+
+KNOWN BUG:
+For some reason if your "ip.txt" file gets unsynced you will get an error saying that shortcuts cannot convert text to NSString, as of now the only workaround is to do something to resync the file, simply holding down on it, then tapping "Quick Look" in the files app should work.
