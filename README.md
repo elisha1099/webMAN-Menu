@@ -1,11 +1,11 @@
 # webMAN-Menu for iOS
 Work-in-progress
 
-webMAN Menu for iOS is a work-in-progess shortcut for use with modded PS3 consoles, this tool usilizes the web commands that are built into webMAN-MOD.
+webMAN Menu for iOS is a work-in-progess shortcut for use with modded PS3 consoles, this tool utilizes the web commands that are built into webMAN-MOD.
 
 Current Features incude:
 - Power off / reboot your PS3 from your phone
-- Easily take screenshots or record your screen
+- Easily take and view screenshots on your phone
 - Eject emulated game disc
 - Download packages directly to PS3 from a browser
 - Rescan and refresh your game list from your phone
