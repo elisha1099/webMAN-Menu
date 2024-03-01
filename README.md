@@ -3,6 +3,8 @@ Work-in-progress
 
 webMAN Menu for iOS is a work-in-progess shortcut for use with modded PS3 consoles, this tool utilizes the web commands that are built into webMAN-MOD.
 
+<img src="/screenshots/MainMenu.jpeg" width="420" height="440"> <img src="/screenshots/SetupMenu.jpeg" width="380" height="440">
+
 Current Features incude:
 - Power off / reboot your PS3 from your phone
 - Easily take and view screenshots on your phone
