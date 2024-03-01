@@ -1,5 +1,5 @@
-# Extra Info
-This page will contain info such as known bugs, FAQ's, and more.
+# Known Bugs
+This page will any currently known bugs, as well as workarounds (if possible)
 
 ### Known Bugs
 - NSString conversion error
