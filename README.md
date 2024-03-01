@@ -17,6 +17,6 @@ Current Features incude:
 To setup webMAN-Menu for iOS all you need to do is follow a few simple steps.
 
 1. Download the [Toolbox Pro](https://apps.apple.com/app/id1476205977) app for iPhone. No 'pro version' is necessary.
-2. Download the webMAN Menu Shortcut from the releases tab to your iPhone or iPad.
+2. Download the webMAN Menu Shortcut from the [releases](https://github.com/elisha1099/webMAN-Menu/releases) tab to your iPhone or iPad.
 3. Open and import the shortcut onto your iPhone, it will then show up in the 'Shortcuts' app.
 4. Open Shortcut, run webMAN Menu by finding it in the shortcuts app, tap the smiley face, then follow the directions.
