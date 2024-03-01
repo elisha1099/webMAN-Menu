@@ -13,6 +13,7 @@ Current Features incude:
 - Rescan and refresh your game list from your phone
 - View Temperatures
 - Change fan speeds quickly
+- Automatically download new versions
 - and much more!
 
 ## Setup
